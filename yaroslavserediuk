@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ГАЛЕРЕЯ УЛЮБЛЕНОЇ МУЗИКИ</title>
+<link rel="icon" href="img/audio_ikonka.jpg">
+<style>
+  body {
+    background-image: url('img/rap.jpg');
+    background-size: cover;
+  }
+</style>
+</head>
+<body>
+
+<h1 style="text-align: center;">ГАЛЕРЕЯ УЛЮБЛЕНОЇ МУЗИКИ</h1>
+
+<center>
+    <audio controls>
+        <source src="Juice WRLD – All Girls Are The Same.mp3" type="audio/mpeg">
+      </audio>
+</center>
+
+<!-- Додайте інші аудіофайли тут -->
+
+<h2 style="text-align: center;">МУЗИКА Juice WRLD</h2>
+
+<center>
+<audio controls>
+  <source src="Juice WRLD – Let Me Know (I Wonder Why Freestyle).mp3" type="audio/mpeg">
+</audio>
+</center>
+
+<center>
+  <input type="text" size="115" height="30" value="мій улюблений жанр музики це реп, я люблю англійський реп, тому що він круто звучить, але ще я люблю звичайну англійську музику" name="COMPOSITION_1"><br><br>
+  <!-- Додайте інші питання для вікторини тут -->
+</center>
+
+</body>
+</html>
